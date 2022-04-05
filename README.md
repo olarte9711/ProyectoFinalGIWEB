@@ -1,6 +1,6 @@
 # ProyectoFinalGIWEB
 
-## Framewor Utilizado
+## Framework Utilizado
 El framework que se utilizó para la realización del proyecto final fue bootstrap.
 
 Es un framework que nos facilita el desarrollo frontend, ya que posee diferentes plantillas de proyectos ya existente. Incluye un sistema de cuadricula receptivo, además muchas de estas ya implementa componenetes preconstruidos y potentes complementos de JavaScript.
