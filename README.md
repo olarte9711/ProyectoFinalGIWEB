@@ -22,4 +22,4 @@ PD: Necesito la nota para el grupo de trabajo :v
 
 ## Importante
 
-La pagina de blog, me falta. Está en construcción.
+La sección de blog, me falta. Está en construcción.
